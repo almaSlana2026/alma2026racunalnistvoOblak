@@ -1,0 +1,136 @@
+Odgovori na vprašanja: 
+
+Which of the following is an example of virtualization?
+d) Multiple virtual machines running on the same server
+
+Zato ker virtualizacija pomeni, da več virtualnih računalnikov oziroma strojev deluje na enem fizičnem strežniku.
+
+Which resources provide the ‘brains’ to process your workloads, including what is required to process and run requests from applications?
+a) Compute
+
+Compute predstavlja možgane sistema v cloudu, ker procesira zahteve aplikacij.
+
+When you need to provision a resource within the cloud, _________ makes it almost immediately available to you to allocate where and when you need it.
+d) on-demand resourcing
+
+On-demand resourcing je glih to, da je vse takoj na voljo, ko želiš nekaj uporabiti.
+
+A ________ cloud deployment model is where a vendor makes available the use of shared infrastructure, including compute, storage and network resources, that can be provisioned on demand and typically accessed over the internet.
+d) public
+
+Javni oblak je da ponudnik zagotovi shared infrastrukturo ko se zahteva, običajno prek interneta.
+
+How are costs generally charged for cloud resources?
+a) Utility-based metering where you only pay for what you use.
+
+Za oblačne storitve se stroški obračunajo glede na to koliko uporabljaš. 
+
+As an example of an important cloud characteristic, let's say you deploy a small website today. Next week, you add complex artificial intelligence services to it that are provided by a public cloud vendor. The following week, you deploy your website to multiple regions around the globe.
+What concept or characteristic of cloud computing does this represent?
+1. On-demand resourcing
+
+Ker dodajaš nove storitve vsak teden po potrebi oziroma po zahtevi.
+
+The ___________________ cloud service model offers a balance between customization and user control, allowing developers to focus on designing at the application layer while the service handles the administration of the virtual architecture, including the network and operating system.
+b) Platform-as-a-service
+
+Platform-as-a-service je ko se razvijalcu omogoči  delo na aplikaciji, ponudnik pa upravlja z omrežjem, operacijskim sistemom in infrastrukturo.
+
+As an example of an important cloud characteristic, let's say you deploy a small website today. Next week, you add complex artificial intelligence services to it that are provided by a public cloud vendor. The following week, you deploy your website to multiple regions around the globe.
+What concept or characteristic of cloud computing does this represent?
+a) Growth
+
+V tem primeru se spletni strani dodajajo nove storitve in spletna stran raste, širi se v več regijah...
+
+Which of the following are not the sole responsibility of public cloud customers? (Choose 2 answers)
+a) Patch Management in d) Network controls
+
+V public cloudu sta Data Protection in  Web Client protection odgovornost samo uporabnika. Ponudnik pa ima odgovornosti v infrastrukturi, omrežju..
+
+Which cloud resource saves and retains data, and is available at an almost unlimited amount within the cloud?
+d) Storage
+
+Storage je rescource za shranjevanje podatkov v oblaku in je na voljo skoraj unlimited.
+
+The ___________________ cloud service model offers the greatest amount of user customization and control but requires the greatest amount of user administration including the operating system, but not physical hardware.
+a) Infrastructure-as-a-Service (IaaS)
+
+Infrastructure-as-a-Service da največ prilagodljibosti in kontrole, ampak uporabnik mora sam upravljati in namestiti večino stvari, razen hardware-a.
+
+What benefit of cloud computing allows you to increase or decrease the power or quantity of resources at any time, without extensive installation or physical processes of provisioning?
+b) Scalability
+
+Scalability pomeni da lahko povečaš in zmanjšaš količino in moč kadarkoli. 
+
+You have been hired as an IT summer intern for a small, but quickly expanding, restaurant chain. The restaurant chain owner wants to expand her online presence by creating a website that will add more online features such as downloadable menus, real-time reservations, online ordering, web-based email, and a possible interactive chat during restaurant hours.
+The website will have high access demands from the 4:00 pm to 11:00 pm peak hours, and slower access demands during off-peak hours. The owner does not have any IT experience and does not want to become involved in the extra work of maintaining IT equipment.
+What do you recommend she do?
+b) Implement a public cloud-computing environment.
+
+Javni oblak je dobra izbira, ker ne želi skrbeti za IT opremo, hoce pa da je prilagodljivo.
+
+Public cloud vendors have a common definition of what aspects of security are the vendor's responsibility and what aspects of security are the end user's responsibility. This is referred to as the Shared Responsibility Model.
+Under the Shared Responsibility Model, which of the following would be the end user's responsibility?
+d) Encryption of data stored within a cloud storage service such as Amazon Elastic Block Store
+
+Zaščita podatkov je uporabnikova odgovornost, infrastruktura pa razpoložljivost od ponudnika.
+
+The ___________________ model requires no software installation and focuses on design simplicity and ease of use. It offers a minimal level of service customization.
+b) Software-as-a-Service
+
+Software-as-a-Service je enostaven za uporabo in ponuja najmanj prilagoditev.
+
+You are leading a team of developers on a project whose goal is to improve customer experience on a credit card company's website.
+The solution requires that the developers write business requirement-oriented custom code. Your client wants the developers not to have the overhead of managing operating systems, runtimes, and middleware.
+Which of the following cloud offerings would you suggest to your client?
+c) Software as a Service (SaaS)
+
+Software as a Service je odličen za ta primer. To je očitno na primeru GitHuba.
+
+A business uses a combination of vendor-managed hardware, such as AWS, Azure, or Google Cloud, and its own hardware on premises to host virtualized resources. This is an example of the ___________ cloud deployment model.
+c) hybrid
+
+Hybrid združi infrastrukturo ponudnika v oblaku in lokalno infrastrukturo podjetja.
+
+One can argue that security on the public cloud is superior to on-premise security. Why is this? (Choose 2 answers)
+a) Public cloud vendor services must meet international security requirements in c) Public cloud vendor services must meet multiple business industries' security and governance requirements
+
+Zaradi globalnih security standardov, in jim ponudniki sledijo.
+
+What is a key benefit of Virtualization?
+a) Reduced capital expenditure
+
+Manj strojne opreme, stroški na začetku so nižji.
+
+Which of the following cloud computing concepts refers to increasing or decreasing compute resources based on demand?
+a) Elasticity
+
+Količina računalniških resursov se prilagaja zahtevam.
+
+Which resources provide the connectivity allowing all other resources to communicate with each other?
+a) Network
+
+Network resources povezujejo vse ostale resurse.
+
+In what way is a private cloud model similar to a public cloud model?
+c) Both private and public cloud models use virtualization to differentiate themselves from traditional on-premise servers.
+
+Oba clouda uporabljata virtualizacijo, kar je drugače kot uporabljati lokalni strežnik.
+
+Which of the following is not a characteristic of the public cloud?
+b) One-time costs for virtual resources
+
+Plača se glede na uporabo, koliko porabljaš toliko plačaš.
+
+Public cloud vendors have a common definition of what aspects of security are the vendor's responsibility and what aspects of security are the end user's responsibility. This is referred to as the Shared Responsibility Model.
+Under the Shared Responsibility Model, which of the following would be the end user's responsibility?
+a) Encryption of data stored within a cloud storage service such as Amazon Elastic Block Store
+
+Spet je shared responsibility, da uporabnik skrbi za podatke. 
+
+What cloud resource type stores structured data used by cloud applications?
+d) Database
+
+Za shranjevanje strukturiranih podatkov je Database.
+
+
