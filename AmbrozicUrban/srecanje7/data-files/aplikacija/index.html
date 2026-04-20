@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nakupni seznam</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="container">
+        <div class="card">
+            <h1>Nakupni seznam</h1>
+            <p class="subtitle">Dodaj nov element na seznam.</p>
+
+            <form action="vstavi.php" method="post">
+                <div class="field">
+                    <label for="element">Element</label>
+                    <input type="text" id="element" name="element" placeholder="npr. kruh" required autofocus>
+                </div>
+
+                <div class="field">
+                    <label for="kolicina">Količina</label>
+                    <input type="number" id="kolicina" name="kolicina" min="1" value="1" required>
+                </div>
+
+                <button type="submit">Shrani</button>
+            </form>
+
+            <div class="links">
+                <a href="izpis.php">Prikaži seznam →</a>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
